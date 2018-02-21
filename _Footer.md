@@ -1,1 +1,1 @@
-Please use https://forum.orangehrm.com/ for discussions. These forums are kept only for reference purposes and are read-only.
+Please use https://forum.orangehrm.com/ for discussions.
