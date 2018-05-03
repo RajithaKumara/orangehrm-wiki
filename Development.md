@@ -15,5 +15,9 @@ The orangehrm project develops with symfony framework and followings commands he
    php symfony doctrine:build-model;
    php symfony cc;
 ``` 
+## How to installl via command line
+Update installer/config.ini file with your local values 
+
+
 ## How to change version number 
     php devTools/general/update-version.php [old version] [new version]
