@@ -16,8 +16,11 @@ The orangehrm project develops with symfony framework and followings commands he
    php symfony cc;
 ``` 
 ## How to installl via command line
-Update installer/config.ini file with your local values 
-
+Update installer/config.ini file with your local values.
+Execute the following command to install via cli.
+```
+./installer/cli_install.sh
+```
 
 ## How to change version number 
     php devTools/general/update-version.php [old version] [new version]
