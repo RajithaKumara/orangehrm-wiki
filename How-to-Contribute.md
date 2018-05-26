@@ -3,6 +3,9 @@
 ## What you have to do
   - Create a forked repository
   - Do your thing in a separate feature branch
+```
+git checkout -b OHRM-5 origin/develop
+```
   - Once it done, create a pull request for develop branch in main repository
   - OrangeHRM team will check your request and if there are no issues, it will be merged
 
