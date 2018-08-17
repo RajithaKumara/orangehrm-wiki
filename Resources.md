@@ -1,11 +1,6 @@
 ## Demo
 
-Live demo server is online at : https://orangehrmdev.herokuapp.com
-
-Credentials : 
-
-    Username: admin
-    Password: admin
+Live demo server is online at : https://www.orangehrm.com/solutions/open-source/demo
 
 ## Releases
 
