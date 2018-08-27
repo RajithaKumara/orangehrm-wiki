@@ -34,7 +34,7 @@
 
 ## OrangeRHM Version 4.1.2
 ### Features
-* Enhancement of System configuration wizard during Installation. Setup instance with the data user entered during installation.
+* Enhancement of System configuration wizard during Installation. Setup instance with user entered data during installation.
 * Supported Language packs 
    * English
    * French
