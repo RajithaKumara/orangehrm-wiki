@@ -11,8 +11,8 @@
 ## Features
 * Verification of supported environment during the installation.
    * Supported PHP Version Range
-         * Minimum version: 5.6
-         * Maximum Version: 7.25
+       * Minimum version: 5.6
+       * Maximum Version: 7.25
    * Supported MySQL Version Range
          * Minimum version: 5.5
          * Maximum Version: 5.7.22
