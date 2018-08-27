@@ -28,9 +28,27 @@
 * Leave - Internal Error is occurring when admin enters lengthy integer when adding an entitlement.
 * PIM-Membership: does not add multiple records for a selected membership type to an employee
 * Recruitment - Sorted by candidate list screen is leading to crash page when vacancy list is open in another tab.
-* Google OpenId Provider not working in 4.1 #git Issue 222 
+* Google OpenId Provider not working in 4.1 <b> #git Issue 222 </b>
 * Can not install using web installer if the database is on MariaDB 10.2
 * Unable to install the build for PHP 7.2 with any MySQL version.
 
 ## OrangeRHM Version 4.1.2
+### Features
+* Enhancement of System configuration wizard during Installation. Setup instance with the data user entered during installation.
+* Supported Language packs 
+   * English
+   * French
+   * German
+   * Spanish (Costa Rica)
+   * Spanish
+   * Dutch
+   * Chinese (Traditional Han)
+   * Chinese (Simplified Han)
+* Support of CLI Installer
 
+### Bug Fixes
+* "Csrf token validation failed" message appears in Login screen even after trying to login with valid credentials <b> git Issue #247 </b>
+* Incorrect version number in config file <b> git Issue #262 </b>
+* cannot install in MySQL 5.7.23, supporting version is equal or lesser version than 5.7.22
+* web Installer: "help" link should be changed with a new guide
+* When change password by accessing Change Password link, system getting inaccessible
