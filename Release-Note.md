@@ -28,7 +28,7 @@
 * Leave - Internal Error is occurring when admin enters lengthy integer when adding an entitlement.
 * PIM-Membership: does not add multiple records for a selected membership type to an employee
 * Recruitment - Sorted by candidate list screen is leading to crash page when vacancy list is open in another tab.
-* Google OpenId Provider not working in 4.1 [[git Issue 222][https://github.com/orangehrm/orangehrm/issues/222]] 
+* Google OpenId Provider not working in 4.1 #git Issue 222 
 * Can not install using web installer if the database is on MariaDB 10.2
 * Unable to install the build for PHP 7.2 with any MySQL version.
 
