@@ -1,11 +1,23 @@
-## OrangeHRM Version 4.1
-###  Features
-* Integration with Toggl. Users can sync the time entries tracked in Toggl to OrangeHRM Time module.
-* Enforcement of having a strong password for the user account.
-* Compatability with LDAP Add-on
-* Environment Compatability with PHP 7.1 & MariaDB 10.2
+## OrangeRHM Version 4.1.2
+### Features
+* Enhancement of System configuration wizard during Installation. Setup instance with user entered data during installation.
+* Supported Language packs 
+   * English
+   * French
+   * German
+   * Spanish (Costa Rica)
+   * Spanish
+   * Dutch
+   * Chinese (Traditional Han)
+   * Chinese (Simplified Han)
+* Support of CLI Installer
+
 ### Bug Fixes
-* Security bug fixes.
+* "Csrf token validation failed" message appears in Login screen even after trying to login with valid credentials <b> git Issue #247 </b>
+* Incorrect version number in config file <b> git Issue #262 </b>
+* cannot install in MySQL 5.7.23, supporting version is equal or lesser version than 5.7.22
+* web Installer: "help" link should be changed with a new guide
+* When change password by accessing Change Password link, system getting inaccessible
 
 ## OrangeHRM Version 4.1.1
 ### Features
@@ -32,23 +44,12 @@
 * Can not install using web installer if the database is on MariaDB 10.2
 * Unable to install the build for PHP 7.2 with any MySQL version.
 
-## OrangeRHM Version 4.1.2
-### Features
-* Enhancement of System configuration wizard during Installation. Setup instance with user entered data during installation.
-* Supported Language packs 
-   * English
-   * French
-   * German
-   * Spanish (Costa Rica)
-   * Spanish
-   * Dutch
-   * Chinese (Traditional Han)
-   * Chinese (Simplified Han)
-* Support of CLI Installer
 
+## OrangeHRM Version 4.1
+###  Features
+* Integration with Toggl. Users can sync the time entries tracked in Toggl to OrangeHRM Time module.
+* Enforcement of having a strong password for the user account.
+* Compatability with LDAP Add-on
+* Environment Compatability with PHP 7.1 & MariaDB 10.2
 ### Bug Fixes
-* "Csrf token validation failed" message appears in Login screen even after trying to login with valid credentials <b> git Issue #247 </b>
-* Incorrect version number in config file <b> git Issue #262 </b>
-* cannot install in MySQL 5.7.23, supporting version is equal or lesser version than 5.7.22
-* web Installer: "help" link should be changed with a new guide
-* When change password by accessing Change Password link, system getting inaccessible
+* Security bug fixes.
