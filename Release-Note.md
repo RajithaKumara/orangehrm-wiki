@@ -1,6 +1,6 @@
 ## OrangeRHM Version 4.1.2
-_**Release Date: 2018-08-31** _ <br>
-**_Release URL: _**
+**Release Date: 2018-08-31** <br>
+**Release URL:**
 ### Features
 * Enhancement of System configuration wizard during Installation. Setup instance with user entered data during installation.
 * Supported Language packs 
@@ -23,7 +23,7 @@ _**Release Date: 2018-08-31** _ <br>
 
 ## OrangeHRM Version 4.1.1
 _**Release Date: 2018-07-02**_ <br>
-**_Release URL: https://sourceforge.net/projects/orangehrm/files/stable/4.1.1/orangehrm-4.1.1.zip/download_**
+**_Release URL: [OrangeHRM 4.1.1](https://sourceforge.net/projects/orangehrm/files/stable/4.1.1/orangehrm-4.1.1.zip/download)_**
 ### Features
 * Verification of supported environment during the installation.
    * Supported PHP Version Range
@@ -51,7 +51,7 @@ _**Release Date: 2018-07-02**_ <br>
 
 ## OrangeHRM Version 4.1
 _**Release Date: 2018-04-26**_ <br>
-_**Release URL: https://sourceforge.net/projects/orangehrm/files/stable/4.1/orangehrm-4.1.zip/download**_
+_**Release URL: [OrangeHRM 4.1](https://sourceforge.net/projects/orangehrm/files/stable/4.1/orangehrm-4.1.zip/download)**_
 ###  Features
 * Integration with Toggl. Users can sync the time entries tracked in Toggl to OrangeHRM Time module.
 * Enforcement of having a strong password for the user account.
