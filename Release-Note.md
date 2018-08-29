@@ -1,5 +1,5 @@
 ## OrangeRHM Version 4.1.2
-**Release Date: 2018-08-31**
+**Release Date: 2018-08-31**  <br>
 _**Release URL: **_
 ### Features
 * Enhancement of System configuration wizard during Installation. Setup instance with user entered data during installation.
