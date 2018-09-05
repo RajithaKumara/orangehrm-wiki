@@ -1,3 +1,11 @@
+## OrangeRHM Version 4.1.2.1
+**Release Date: 2018-09-07** <br>
+**Release URL:**
+### Bug Fixes
+* Installation fails if cURL is not enabled 
+* Resolved issue with relative paths running into an error in Windows & Apache
+* Improved Version checker for dependencies
+
 ## OrangeRHM Version 4.1.2
 **Release Date: 2018-08-31** <br>
 **Release URL:**
