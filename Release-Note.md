@@ -1,6 +1,6 @@
 ## OrangeRHM Version 4.1.2.1
 **Release Date: 2018-09-07** <br>
-**Release URL:**
+**_Release URL:   https://sourceforge.net/projects/orangehrm/files/stable/4.1.2.1/orangehrm-4.1.2.1.zip/download_**
 ### Bug Fixes
 * Installation fails if cURL is not enabled 
 * Resolved issue with relative paths running into an error in Windows & Apache
@@ -8,7 +8,7 @@
 
 ## OrangeRHM Version 4.1.2
 **Release Date: 2018-08-31** <br>
-**Release URL:**
+**Release URL: https://sourceforge.net/projects/orangehrm/files/stable/4.1.2/orangehrm-4.1.2.zip/download**
 ### Features
 * Enhancement of System configuration wizard during Installation. Setup instance with user entered data during installation.
 * Supported Language packs 
