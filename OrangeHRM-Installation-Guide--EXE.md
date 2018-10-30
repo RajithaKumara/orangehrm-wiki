@@ -22,4 +22,5 @@ Installation will be briefly described below
 
 ### Welcome Screen
 ![](https://drive.google.com/drive/folders/1rsoUiPgIrz_q3xE9HRtE45z_je9O5iw7?usp=sharing)
+![](https://drive.google.com/drive/folders/1rsoUiPgIrz_q3xE9HRtE45z_je9O5iw7?usp=sharing)
 
