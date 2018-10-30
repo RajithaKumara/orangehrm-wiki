@@ -37,9 +37,9 @@ picture :https://drive.google.com/drive/folders/1rsoUiPgIrz_q3xE9HRtE45z_je9O5iw
 
 ### Components Check
 
-Select the components you wish to install with OrangeHRM. You can uncheck additional components which may not required to you. It is recommended to keep the checkboxes checked.
+Select the components you wish to install with OrangeHRM. You can uncheck additional components which may not be required to you. It is recommended to keep the checkboxes checked.
 
-picture : https://drive.google.com/drive/folders/1rsoUiPgIrz_q3xE9HRtE45z_je9O5iw7?ogsrc=32
+file:///home/kavitha/Downloads/4.PNG
 
 ### Create Administrator credentials
 
