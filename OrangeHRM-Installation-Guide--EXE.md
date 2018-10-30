@@ -22,7 +22,7 @@ Installation will be briefly described below
 
 ### Welcome Screen
 
-picture :  [pic](https://drive.google.com/drive/folders/1rsoUiPgIrz_q3xE9HRtE45z_je9O5iw7?ogsrc=32)
+picture : https://drive.google.com/drive/folders/1rsoUiPgIrz_q3xE9HRtE45z_je9O5iw7?ogsrc=32
 Welcome screen will state which version of OrangeHRM will be installed. Click Next to continue
 
 ### License Agreement
