@@ -18,6 +18,9 @@ XAMPP users, the Linux stack needs to be started manually. Refer to the stack do
 Using a JavaScript enabled browser go to http://hostname/orangehrm2/
 Above hostname is "localhost" if it is installed in the machine you are currently working on or IP address if it is remotely hosted (i.e. external to the machine you are using)y
 
+Installation will be briefly described below
+
+### Welcome Screen
 
 
 
