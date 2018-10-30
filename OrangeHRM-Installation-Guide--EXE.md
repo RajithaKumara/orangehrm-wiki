@@ -26,3 +26,49 @@ picture
 
 Welcome screen will state which version of OrangeHRM will be installed. Click Next to continue
 
+### License Agreement
+
+In this wizard, you will be provided with a copy of the GNU GENERAL PUBLIC LICENSE 
+ 
+In order to continue with the installation process, it is mandatory to accept the terms and conditions stated in the Licence Agreement. Click [I Agree] button if you accept the terms and conditions of the license. Then you will be taken to the next page of the Web Installer.
+ 
+If you wish to decline, you macy click [Cancel] button and that will discontinue the installation process while deleting all OrangeHRM files you posses.
+
+picture
+
+### Components Check
+
+Select the components you wish to install with OrangeHRM. You can uncheck additional components which may not required to you. It is recommended to keep the checkboxes checked.
+
+picture
+
+### Create Administrator credentials
+
+You will need to create an administrator account to login to OrangeHRM system. Enter the Username  and Password to create an admin user for the system. You need to re enter the password again to confirm the password. These credentials will be used to login to the system as an admin user.
+
+picture
+
+### Installation location
+
+Select the destination which you prefer OrangeHRM to be installed. Default destination will be C:\Program Files\OrangeHRM\. Click install to proceed with installation.
+
+picture
+
+ ### Installing
+Here you will be shown the progress of the installation. Once the installation is completed the [Next] button will be enabled. Click [Next] when installation is complete to continue.
+
+picture
+
+Note : If an error occurs during the installation, the whole installation will be aborted.
+
+
+### Complete Installation
+
+This ends the successful installation of OrangeHRM in your system. Click “Finish” to close the setup. 
+
+picture
+
+You can use your user credentials that you created during installation process to access the system. 
+
+picture
+
