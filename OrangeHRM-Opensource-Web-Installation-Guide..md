@@ -1,3 +1,5 @@
+[download](https://drive.google.com/drive/folders/1rsoUiPgIrz_q3xE9HRtE45z_je9O5iw7?ogsrc=32)
+
 Introduction
 Overview
 
@@ -112,7 +114,7 @@ To process with the installation, click [Next]
 
 
 
-Licence Acceptance
+License Acceptance
 
 Copy of the GNU GENERAL PUBLIC LICENSE will be provided to you at this screen.
  
