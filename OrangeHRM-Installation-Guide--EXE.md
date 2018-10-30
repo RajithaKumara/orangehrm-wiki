@@ -10,7 +10,7 @@ Microsoft Visual C++ 2008 SP1 Redistributor Package (x86)
 PHP 5.6 or later - If you already have Apache HTTP Web server (and PHP loaded as an Apache Module) and MySQL running, then you have everything you need
 **Recommended Browsers**:     Mozilla Firefox 62.0 or later.
                 Microsoft® Internet Explorer 5.5 or later
-# ### Installation
+ ## Installation
 
 Note:
 XAMPP users, the Linux stack needs to be started manually. Refer to the stack documentation.
