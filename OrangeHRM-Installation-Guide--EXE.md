@@ -22,5 +22,5 @@ Installation will be briefly described below
 
 ### Welcome Screen
 
-![pic](https://drive.google.com/drive/folders/1rsoUiPgIrz_q3xE9HRtE45z_je9O5iw7?ogsrc=32)
+![](file:///home/anuradhi/Downloads/4.PNG)
 
