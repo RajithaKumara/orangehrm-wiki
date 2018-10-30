@@ -22,5 +22,7 @@ Installation will be briefly described below
 
 ### Welcome Screen
 
-![](file:///home/anuradhi/Downloads/4.PNG)
+picture
+
+Welcome screen will state which version of OrangeHRM will be installed. Click Next to continue
 
