@@ -21,6 +21,5 @@ Above hostname is "localhost" if it is installed in the machine you are currentl
 Installation will be briefly described below
 
 ### Welcome Screen
-
-
+![](https://drive.google.com/drive/folders/1rsoUiPgIrz_q3xE9HRtE45z_je9O5iw7?usp=sharing)
 
