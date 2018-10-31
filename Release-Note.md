@@ -1,3 +1,22 @@
+## OrangeRHM Version 4.2
+**Release Date: 2018-10-31** <br>
+**_Release URL:   _**
+### New Features
+* Maintenance module - GDPR Compliance
+   * Purge employee records
+   * Purge candidate records
+   * Access employee records
+* Security Enhancements
+   * Update .htaccess restrictions
+   * Improve CSRF token validation
+   * Resolve Path-Based vulnerability
+   * Enable secure cookie attribute to application cookie
+* Enhancement on OS installation error messages
+### Bug Fixes
+* Verify installation supports in different mysql ports
+* Verify if pdo/mysqli has been enabled during installation
+### Removed Features
+* Remove unix_socket support at the installation
 ## OrangeRHM Version 4.1.2.1
 **Release Date: 2018-09-07** <br>
 **_Release URL:   https://sourceforge.net/projects/orangehrm/files/stable/4.1.2.1/orangehrm-4.1.2.1.zip/download_**
