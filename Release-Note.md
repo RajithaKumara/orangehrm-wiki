@@ -1,3 +1,11 @@
+## OrangeRHM Version 4.2.0.1
+**Release Date: 2018-11-05** <br>
+**Release URL: https://sourceforge.net/projects/orangehrm/files/stable/4.2/orangehrm-4.2.0.1.zip/download**
+### Bug Fixes
+* Remove HTTPS restriction introduced in OrangeHRM 4.2 release
+### New Features
+* Add SimpleXML modules to pre-requisites check
+
 ## OrangeRHM Version 4.2
 **Release Date: 2018-10-31** <br>
 **Release URL: https://sourceforge.net/projects/orangehrm/files/stable/4.2/orangehrm-4.2.zip/download**
