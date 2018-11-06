@@ -1,6 +1,6 @@
 ## OrangeRHM Version 4.2
 **Release Date: 2018-10-31** <br>
-**_Release URL:   _**
+**Release URL: https://sourceforge.net/projects/orangehrm/files/stable/4.2/orangehrm-4.2.zip/download**
 ### New Features
 * Maintenance module - GDPR Compliance
    * Purge employee records
