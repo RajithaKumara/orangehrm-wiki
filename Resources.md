@@ -1,7 +1,6 @@
 ## Demo
 
-Live demo server is online at : https://www.orangehrm.com/solutions/open-source/demo
-
+Live demo server is online at : https://opensource-demo.orangehrmlive.com
 ## Releases
 
 Sourceforge : https://sourceforge.net/p/orangehrm
