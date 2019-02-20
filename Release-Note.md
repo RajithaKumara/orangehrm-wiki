@@ -2,7 +2,7 @@
 **Release Date: In Development** <br>
 
 ### New Features
-* Introducing Market Place
+* Market Place
    * Install or uninstall free add-on by admin users
    * Request paid add-on by admin users
    * View all compatible add-ons by all users
