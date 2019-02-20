@@ -1,3 +1,14 @@
+## OrangeRHM Version 4.3
+**Release Date: In Development** <br>
+
+### New Features
+* Market Place
+   * Install free add-on by admin users
+   * Request paid add-on by admin users
+   * View all compatible add-ons by all users
+### Bug Fixes
+   * French Add User not working <b> git Issue #452 </b>
+
 ## OrangeRHM Version 4.2.0.1
 **Release Date: 2018-11-05** <br>
 **Release URL: https://sourceforge.net/projects/orangehrm/files/stable/4.2/orangehrm-4.2.0.1.zip/download**
