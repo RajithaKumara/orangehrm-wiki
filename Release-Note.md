@@ -3,7 +3,7 @@
 
 ### New Features
 * Market Place
-   * Install/uninstall free add-on by admin users
+   * Install or uninstall free add-on by admin users
    * Request paid add-on by admin users
    * View all compatible add-ons by all users
 ### Bug Fixes
