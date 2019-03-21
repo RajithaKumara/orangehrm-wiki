@@ -20,7 +20,7 @@
 
 ## OrangeRHM Version 4.2
 **Release Date: 2018-10-31** <br>
-**Release URL: https://sourceforge.net/projects/orangehrm/files/stable/4.2/orangehrm-4.2.zip/download**
+**Release URL: https://sourceforge.net/projects/orangehrm/files/stable/4.2**
 ### New Features
 * Maintenance module - GDPR Compliance
    * Purge employee records
@@ -39,7 +39,7 @@
 * Remove unix_socket support at the installation
 ## OrangeRHM Version 4.1.2.1
 **Release Date: 2018-09-07** <br>
-**_Release URL:   https://sourceforge.net/projects/orangehrm/files/stable/4.1.2.1/orangehrm-4.1.2.1.zip/download_**
+**_Release URL:   https://sourceforge.net/projects/orangehrm/files/stable/4.1.2.1**
 ### Bug Fixes
 * Installation fails if cURL is not enabled 
 * Resolved issue with relative paths running into an error in Windows & Apache
@@ -47,7 +47,7 @@
 
 ## OrangeRHM Version 4.1.2
 **Release Date: 2018-08-31** <br>
-**Release URL: https://sourceforge.net/projects/orangehrm/files/stable/4.1.2/orangehrm-4.1.2.zip/download**
+**Release URL: https://sourceforge.net/projects/orangehrm/files/stable/4.1.2**
 ### Features
 * Enhancement of System configuration wizard during Installation. Setup instance with user entered data during installation.
 * Supported Language packs 
@@ -70,7 +70,7 @@
 
 ## OrangeHRM Version 4.1.1
 _**Release Date: 2018-07-02**_ <br>
-**_Release URL: [OrangeHRM 4.1.1](https://sourceforge.net/projects/orangehrm/files/stable/4.1.1/orangehrm-4.1.1.zip/download)_**
+**_Release URL: [OrangeHRM 4.1.1](https://sourceforge.net/projects/orangehrm/files/stable/4.1.1**
 ### Features
 * Verification of supported environment during the installation.
    * Supported PHP Version Range
@@ -98,7 +98,7 @@ _**Release Date: 2018-07-02**_ <br>
 
 ## OrangeHRM Version 4.1
 _**Release Date: 2018-04-26**_ <br>
-_**Release URL: [OrangeHRM 4.1](https://sourceforge.net/projects/orangehrm/files/stable/4.1/orangehrm-4.1.zip/download)**_
+_**Release URL: [OrangeHRM 4.1](https://sourceforge.net/projects/orangehrm/files/stable/4.1)**_
 ###  Features
 * Integration with Toggl. Users can sync the time entries tracked in Toggl to OrangeHRM Time module.
 * Enforcement of having a strong password for the user account.
