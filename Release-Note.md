@@ -1,5 +1,6 @@
 ## OrangeRHM Version 4.3
-**Release Date: In Development** <br>
+**Release Date: 2019-03-02** <br>
+**Release URL: https://sourceforge.net/projects/orangehrm/files/stable/4.3/**
 
 ### New Features
 * Market Place
