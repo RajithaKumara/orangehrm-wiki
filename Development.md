@@ -11,9 +11,9 @@ After that, you have to execute the following commands to update composer depend
 ```
 The orangehrm project develops with symfony framework and followings commands help to build the doctrine model and publish local assets. 
 ```
-   php symfony orangehrm:publish-assets;
-   php symfony doctrine:build-model;
-   php symfony cc;
+   php symfony orangehrm:publish-assets
+   php symfony doctrine:build-model
+   php symfony cc
 ``` 
 ## How to installl via command line
 Update installer/config.ini file with your local values.
