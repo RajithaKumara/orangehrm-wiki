@@ -3,7 +3,7 @@
 **Release URL: **
 
 ### New Features
-* Resetting your forgotten password
+* Reset forgotten password
 * Compatability with PHP 7.2.15 version
 * Compatability with MySQL 5.7.24 version
 
