@@ -1,3 +1,18 @@
+## OrangeRHM Version 4.3.1
+**Release Date: ** <br>
+**Release URL: **
+
+### New Features
+* Resetting your forgotten password
+* Compatability with PHP 7.2.15 version
+* Compatability with MySQL 5.7.24 version
+
+### Bug Fixes
+* Pending leave request is not showing in the dashboard for admin or supervisor. <b> git Issue #470 </b> 
+* Google OpenID Support. <b> git Issue #472 & #222 </b>
+* French Add User not working <b> git Issue #452 </b>
+
+
 ## OrangeRHM Version 4.3
 **Release Date: 2019-03-02** <br>
 **Release URL: https://sourceforge.net/projects/orangehrm/files/stable/4.3/**
