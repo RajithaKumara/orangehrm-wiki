@@ -4,9 +4,9 @@
 
 ### New Features
 * Reset forgotten password
-* Compatability with PHP 7.2.16 
-* Compatability with MySQL 5.7.24 
-* Compatability with MariaDB 10.3.14
+* Compatibility with PHP 7.2.16 
+* Compatibility with MySQL 5.7.24 
+* Compatibility with MariaDB 10.3.14
 
 ### Bug Fixes
 * Pending leave request is not showing in the dashboard for admin or supervisor. <b> git Issue #470 </b> 
