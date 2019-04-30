@@ -4,8 +4,8 @@
 
 ### New Features
 * Reset forgotten password
-* Compatibility with PHP 7.2.16 
-* Compatibility with MySQL 5.7.24 
+* Compatibility with PHP 7.2.17
+* Compatibility with MySQL 5.7.26
 * Compatibility with MariaDB 10.3.14
 
 ### Bug Fixes
