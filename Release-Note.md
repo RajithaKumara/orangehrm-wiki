@@ -1,6 +1,6 @@
 ## OrangeRHM Version 4.3.1
-**Release Date: ** <br>
-**Release URL: **
+**Release Date: 2019-04-30** <br>
+**Release URL: https://sourceforge.net/projects/orangehrm/files/stable/4.3.1/**
 
 ### New Features
 * Reset forgotten password
