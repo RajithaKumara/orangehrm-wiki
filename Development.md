@@ -21,6 +21,11 @@ Execute the following command to install via cli.
 ```
 ./installer/cli_install.sh
 ```
+## How to execute unit tests
+Unit tests can be execute as follows
+```
+symfony/lib# vendor/bin/phpunit ../test/PluginAllTests.php
+```
 
 ## How to change version number 
     php devTools/general/update-version.php [old version] [new version]
