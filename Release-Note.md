@@ -1,3 +1,20 @@
+## OrangeRHM Version 4.3.2
+**Release Date: In Development** <br>
+**Release URL: In Development**
+
+### New Features
+* Claim addon  
+   * Employee submit claims and supervisor/admin approves.
+   * Admin / Supervisor assign claims to employees.
+   * Email notifications on the apply and approve.
+   * Admin manage claim types & event types.
+* Compatibility with PHP 7.3
+* Compatibility with MariaDB 10.4.6
+
+### Bug Fixes
+* Security fixes
+
+
 ## OrangeRHM Version 4.3.1
 **Release Date: 2019-04-30** <br>
 **Release URL: https://sourceforge.net/projects/orangehrm/files/stable/4.3.1/**
