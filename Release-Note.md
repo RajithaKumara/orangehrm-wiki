@@ -12,7 +12,7 @@
 * Compatibility with MariaDB 10.4.6
 
 ### Bug Fixes
-* Security fixes
+* Security fix [CVE-2019-12839]
 
 
 ## OrangeRHM Version 4.3.1
