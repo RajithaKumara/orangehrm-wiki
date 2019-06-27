@@ -14,7 +14,6 @@
 ### Bug Fixes
 * Security fix [CVE-2019-12839]
 
-
 ## OrangeRHM Version 4.3.1
 **Release Date: 2019-04-30** <br>
 **Release URL: https://sourceforge.net/projects/orangehrm/files/stable/4.3.1/**
