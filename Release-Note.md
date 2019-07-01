@@ -1,6 +1,6 @@
 ## OrangeRHM Version 4.3.2
-**Release Date: In Development** <br>
-**Release URL: In Development**
+**Release Date: 2019-06-30** <br>
+**Release URL: https://sourceforge.net/projects/orangehrm/files/stable/4.3.2/**
 
 ### New Features
 * Claim addon  
