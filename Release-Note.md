@@ -1,3 +1,15 @@
+## OrangeRHM Version 4.3.3
+**Release Date: TBD** <br>
+**Release URL: TBD**
+
+### New Features
+* Upgrade supportability to upgrade the addons with latest versions.
+* Corporate Branding Improvements
+   * Admin can install the corporate branding and configure their organization logo and theme color.  
+
+### Bug Fixes
+* Code Improvements.
+
 ## OrangeRHM Version 4.3.2
 **Release Date: 2019-06-30** <br>
 **Release URL: https://sourceforge.net/projects/orangehrm/files/stable/4.3.2/**
