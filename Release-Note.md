@@ -5,7 +5,7 @@
 ### New Features
 * Upgrade supportability to upgrade the addons with latest versions.
 * Corporate Branding Improvements
-   * Admin can install the corporate branding and configure their organization logo and theme color.  
+   * Admin can install the corporate branding and configure their organization logo and theme colors.  
 
 ### Bug Fixes
 * Code Improvements.
