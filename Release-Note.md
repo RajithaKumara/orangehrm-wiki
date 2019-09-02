@@ -1,6 +1,6 @@
 ## OrangeRHM Version 4.3.3
-**Release Date: TBD** <br>
-**Release URL: TBD**
+**Release Date: 2019-09-02** <br>
+**Release URL: https://sourceforge.net/projects/orangehrm/files/stable/4.3.3/**
 
 ### New Features
 * Upgrade supportability to upgrade the addons with latest versions.
