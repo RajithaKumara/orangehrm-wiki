@@ -1,3 +1,15 @@
+## OrangeRHM Version 4.3.4
+**Release Date: Planned: 2019-10-31** <br>
+**Release URL: TBD**
+
+### New Features
+* ESS user to subscribe OrangeHRM updates
+
+### New Features
+
+
+
+
 ## OrangeRHM Version 4.3.3
 **Release Date: 2019-09-02** <br>
 **Release URL: https://sourceforge.net/projects/orangehrm/files/stable/4.3.3/**
