@@ -7,8 +7,8 @@
 * Code Enhancements: JQuery library upgraded to version 3.4.1
 
 ### Bug Fixes
-* Warning message is shown when apply leave using specific time option. <b> git Issue #581 </b>
-* Leave gets approved when approving the request which contains canceled leave request. <git Issue #576 </b>
+* Warning message is shown when apply to leave using a specific time option. <b> git Issue #581 </b>
+* Leave gets approved when approving the request which contains canceled leave request. <b> git Issue #576 </b>
 
 ## OrangeRHM Version 4.3.3
 **Release Date: 2019-09-02** <br>
