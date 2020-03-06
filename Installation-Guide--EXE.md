@@ -22,7 +22,7 @@ Installation will be briefly described below
 
 ### Welcome Screen
 
-picture : https://drive.google.com/drive/folders/1rsoUiPgIrz_q3xE9HRtE45z_je9O5iw7?ogsrc=32
+![](./screenshots/exe-01.png)
 Welcome screen will state which version of OrangeHRM will be installed. Click Next to continue
 
 ### License Agreement
@@ -33,31 +33,31 @@ In order to continue with the installation process, it is mandatory to accept th
  
 If you wish to decline, you macy click [Cancel] button and that will discontinue the installation process while deleting all OrangeHRM files you posses.
 
-picture :https://drive.google.com/drive/folders/1rsoUiPgIrz_q3xE9HRtE45z_je9O5iw7?ogsrc=32
+![](./screenshots/exe-02.png)
 
 ### Components Check
 
 Select the components you wish to install with OrangeHRM. You can uncheck additional components which may not be required to you. It is recommended to keep the checkboxes checked.
 
-file:///home/kavitha/Downloads/4.PNG
+![](./screenshots/exe-03.png)
 
 ### Create Administrator credentials
 
 You will need to create an administrator account to login to OrangeHRM system. Enter the Username  and Password to create an admin user for the system. You need to re enter the password again to confirm the password. These credentials will be used to login to the system as an admin user.
 
-picture : https://drive.google.com/drive/folders/1rsoUiPgIrz_q3xE9HRtE45z_je9O5iw7?ogsrc=32
+![](./screenshots/exe-04.png)
 
 ### Installation location
 
 Select the destination which you prefer OrangeHRM to be installed. Default destination will be C:\Program Files\OrangeHRM\. Click install to proceed with installation.
 
-picture : https://drive.google.com/drive/folders/1rsoUiPgIrz_q3xE9HRtE45z_je9O5iw7?ogsrc=32
+![](./screenshots/exe-05.png)
 
  ### Installing
 
 Here you will be shown the progress of the installation. Once the installation is completed the [Next] button will be enabled. Click [Next] when installation is complete to continue.
 
-picture : https://drive.google.com/drive/folders/1rsoUiPgIrz_q3xE9HRtE45z_je9O5iw7?ogsrc=32
+![](./screenshots/exe-06.png)
 
 Note : If an error occurs during the installation, the whole installation will be aborted.
 
@@ -66,9 +66,10 @@ Note : If an error occurs during the installation, the whole installation will b
 
 This ends the successful installation of OrangeHRM in your system. Click “Finish” to close the setup. 
 
-picture : https://drive.google.com/drive/folders/1rsoUiPgIrz_q3xE9HRtE45z_je9O5iw7?ogsrc=32
+![](./screenshots/exe-07.png)
 
 You can use your user credentials that you created during installation process to access the system. 
  
-picture : https://drive.google.com/drive/folders/1rsoUiPgIrz_q3xE9HRtE45z_je9O5iw7?ogsrc=32
+![](./screenshots/exe-08.png)
+pictures : https://drive.google.com/drive/folders/1rsoUiPgIrz_q3xE9HRtE45z_je9O5iw7?ogsrc=32
 
