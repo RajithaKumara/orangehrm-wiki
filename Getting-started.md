@@ -8,10 +8,10 @@ This Guide describes how to install OrangeHRM. It is intended for experienced ad
 The pre-requisites are;
 
     Apache HTTP Server 1.3 or later
-    MySQL 5.1.6 or later
-    PHP 5.3.0 or later
+    MySQL 5.5 or later / MariaDB 5.5 or later
+    PHP 7.0 or later
 
-If you already have Apache HTTP web server (and PHP5 loaded as an Apache Module) and MySQL running, then you have everything you need. (Note: OrangeHRM requires PHP5)
+If you already have Apache HTTP web server (and PHP loaded as an Apache Module) and MySQL running, then you have everything you need. (Note: OrangeHRM requires PHP 7.0)
 
 In case you don't have the requisites setup, you have two options.
 Use OrangeHRM Appliance for Windows. Just install and use.

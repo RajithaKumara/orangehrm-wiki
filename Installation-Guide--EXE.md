@@ -4,10 +4,10 @@ Not a fan of reading? Why not watch the video tutorial that covers the entire in
 
 
 The other per-requirements are:
-MySQL 5.5 or later
-Apache HTTP Server 2.4.6 2.2.22 or later
+MySQL 5.5 or later / MariaDB 5.5 or later,
+Apache HTTP Server 2.4.6, 2.2.22 or later
 Microsoft Visual C++ 2008 SP1 Redistributor Package (x86)
-PHP 5.6 or later - If you already have Apache HTTP Web server (and PHP loaded as an Apache Module) and MySQL running, then you have everything you need
+PHP 7.0 or later - If you already have Apache HTTP Web server (and PHP loaded as an Apache Module) and MySQL running, then you have everything you need
 **Recommended Browsers**:     Mozilla Firefox 62.0 or later.
                 Microsoft® Internet Explorer 5.5 or later
  ## Installation
@@ -23,6 +23,7 @@ Installation will be briefly described below
 ### Welcome Screen
 
 ![](./screenshots/exe-01.png)
+
 Welcome screen will state which version of OrangeHRM will be installed. Click Next to continue
 
 ### License Agreement
