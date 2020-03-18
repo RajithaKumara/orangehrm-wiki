@@ -20,10 +20,10 @@ To install OrangeHRM, ensure that meet the Prerequisites.
 The prerequisites are;
 
 Apache HTTP Server 2.4.6 or later
-MySQL 5.5 or later
-PHP 5.6 or later
+MySQL 5.5 or later / MariaDB 5.5 or later,
+PHP 7.0 or later
 
-If you already have Apache HTTP web server (and PHP5 loaded as an Apache Module) and MySQL running, then you have everything you need. (Note: OrangeHRM requires PHP5)
+If you already have Apache HTTP web server (and PHP loaded as an Apache Module) and MySQL running, then you have everything you need. (Note: OrangeHRM requires PHP 7.0)
 
 In case you don't have the requisites setup, you have two options.
 
@@ -90,11 +90,13 @@ This section will cover step by step installation process of OrangeHRM using the
 Copy and extract OrangeHRM-[version_no].zip into the document root of the Apache HTTP Server. 
 
 If you use XAMPP for Windows, default document root is located as follows:
-              <XAMPP Installed Location>\htdocs\
+
+    <XAMPP Installed Location>\htdocs\
             Eg:  C:\Program Files\xampp\htdocs
 
 If you use XAMPP for Linux, default document root is located as follows:
-            <XAMPP Installed Location>/htdocs/
+
+    <XAMPP Installed Location>/htdocs/
 
 After you copied the files in relevant location, initiate XAMPP server. Using a javascript enabled browser, type following location to as the URL to access the  Web Installer.
 
